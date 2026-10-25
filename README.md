@@ -13,7 +13,7 @@ I'm studying Information Technology at International Burch University, with a fo
 | [Art Museum Collection Pipeline](https://github.com/Hala-ibu/Art-Museum-Collection-Pipeline) | Extracts museum collection records from a JSON API, cleans missing and duplicate data, and exports structured datasets for analysis. | Python, Pandas, NumPy |
 | [Bunny & Bloom](https://github.com/Hala-ibu/Bunny-and-Bloom-) | Responsive full-stack web application with a custom REST API and database-backed CRUD operations. | JavaScript, FlightPHP, MySQL |
 | [Fortune Horoscope App](https://github.com/Hala-ibu/Fortune-Horoscope-App) | Android app for horoscope readings, searchable zodiac profiles, daily habit tracking, and a zodiac-inspired poster collection. | Kotlin, Jetpack Compose, Room |
-| [Recipe Tracking App](https://github.com/Hala-ibu/recipe-app) *(in progress)* | Cross-platform mobile app in development, with UI/UX wireframes, navigation flows, and an Expo + TypeScript foundation. | React Native, Expo, TypeScript |
+| [Mobile Programming Lab](https://github.com/Hala-ibu/MobileProgramming-lab) | Kotlin and Compose habit dashboard prototype with Dashboard, Habits, Profile, Settings, and About screens. | Kotlin, Jetpack Compose, Material 3 |
 | Operating Systems & Concurrency | Linux command-line shell in C/C++ with command execution, process control, and semaphore-based synchronization. | C/C++, Linux, IPC |
 
 ## Skills
