@@ -1,27 +1,45 @@
-# 💫 About Me:
-🔭 I’m currently working on creating  more projects<br>👯 I’m looking to collaborate on design and web based projects<br>🤝 I’m looking for help with enhancing my problem solving skills<br>🌱 I’m currently learning java and JavaScript<br>⚡ am a student in international Burch university 1st year. <br>am great at   artistic and creative thinking<br><br>i love cooperating with others
+# Hi, I'm Hala Kablaoui
 
+**Information Technology undergraduate | Data Science & AI | Software and data projects**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ o0o.sunshine.o0o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hala Kablaoui) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Hala Kablaoui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hala.kablaoui@stu.ibu.edu.ba) 
+I'm studying Information Technology at International Burch University, with a focus on Data Science and AI. I enjoy building practical applications, working with data, and shaping clear, thoughtful user experiences. I'm currently looking for an IT internship where I can contribute to software or data projects and keep learning with a team.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hala-ibu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hala-ibu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hala-ibu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/hala-kablaoui/) · [GitHub projects](https://github.com/Hala-ibu?tab=repositories)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hala-ibu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## Featured projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+| Project | What it does | Tools |
+| --- | --- | --- |
+| [Art Museum Collection Pipeline](https://github.com/Hala-ibu/Art-Museum-Collection-Pipeline) | Extracts museum collection records from a JSON API, cleans missing and duplicate data, and exports structured datasets for analysis. | Python, Pandas, NumPy |
+| [Bunny & Bloom](https://github.com/Hala-ibu/Bunny-and-Bloom-) | Responsive full-stack web application with a custom REST API and database-backed CRUD operations. | JavaScript, FlightPHP, MySQL |
+| [Fortune Horoscope App](https://github.com/Hala-ibu/Fortune-Horoscope-App) | Android app for horoscope readings, searchable zodiac profiles, daily habit tracking, and a zodiac-inspired poster collection. | Kotlin, Jetpack Compose, Room |
+| Recipe Tracking App *(in progress)* | Cross-platform mobile app in development, with UI/UX wireframes, navigation flows, and an Expo + TypeScript foundation. | React Native, Expo, TypeScript |
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hala-ibu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Skills
+
+- **Programming:** Python, JavaScript, TypeScript, C/C++, SQL
+- **Web and mobile:** React Native, Expo, Node.js, FlightPHP, HTML, CSS, Bootstrap
+- **Data:** Pandas, NumPy, MySQL, data cleaning and ETL
+- **Tools and practices:** Git, GitHub, Linux, REST APIs, Agile/Scrum, UI/UX sketching
+- **Languages:** English (fluent), Arabic (native), Bosnian (basic)
+
+## Education
+
+**BSc in Information Technology — Data Science & AI track**  
+International Burch University · October 2024 – July 2027 (expected)
+
+Relevant coursework includes data structures, database systems, web and mobile programming, operating systems, probability and statistics, and software project management.
+
+## Highlights
+
+- Awarded the maximum university academic scholarship for 2024–2026.
+- Contributed 36+ hours of visual design and branding work for University Career Day.
+- Completed Scrum Fundamentals training and Microsoft Learn coursework and badges in Azure and data-related topics.
+
+## Currently learning
+
+I'm strengthening my skills in software development, data engineering, and applied AI through coursework and hands-on projects. I value visual communication, creative problem-solving, and collaborating with others.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hala-ibu&icon=1&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Always happy to connect with people building useful software and data projects.*
